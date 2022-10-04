@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="418d1917-8f03-4f6b-adc8-f4e282e1dc39" name="Changes" comment="">
+    <list default="true" id="418d1917-8f03-4f6b-adc8-f4e282e1dc39" name="Changes" comment="Add examples">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExOrdenacaoSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExOrdenacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExOrdenacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExemplosList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExemplosList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,32 +34,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.ExOrdenacao">
-    <configuration name="ExOrdenacao (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExOrdenacao" />
+}]]></component>
+  <component name="RunManager" selected="Application.ExOrdenacaoSet (1)">
+    <configuration name="ExOrdenacaoSet (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExOrdenacaoSet" />
       <module name="AulasCollections" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExOrdenacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExOrdenacao" />
+    <configuration name="ExOrdenacaoSet (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExOrdenacaoSet" />
       <module name="AulasCollections" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemplosList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExemplosList" />
+    <configuration name="ExOrdenacaoSet (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExOrdenacaoSet" />
+      <module name="AulasCollections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExOrdenacaoSet (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExOrdenacaoSet" />
+      <module name="AulasCollections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExOrdenacaoSet (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExOrdenacaoSet" />
       <module name="AulasCollections" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,9 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExOrdenacao" />
-        <item itemvalue="Application.ExOrdenacao (1)" />
-        <item itemvalue="Application.ExemplosList" />
+        <item itemvalue="Application.ExOrdenacaoSet (1)" />
+        <item itemvalue="Application.ExOrdenacaoSet (5)" />
+        <item itemvalue="Application.ExOrdenacaoSet (4)" />
+        <item itemvalue="Application.ExOrdenacaoSet (3)" />
+        <item itemvalue="Application.ExOrdenacaoSet (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -81,6 +99,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664830421999</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add examples">
+      <created>1664841092143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664841092143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add examples" />
   </component>
 </project>
